@@ -2,6 +2,6 @@
 
 <p align="center">
   <a href="https://scaletrade.ai">
-    <img alt="ScaleTrade Banner" src="https://github.com/scaletrade-ai/.github/blob/main/profile/media/banner.png?raw=true"> 
+    <img alt="ScaleTrade Banner" src="https://github.com/ScaleTrade-Inc/.github/blob/main/profile/media/banner.png?raw=true"> 
   </a>
 </p>
